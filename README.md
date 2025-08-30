@@ -25,8 +25,7 @@ It provides rich insights into Netflix's global content library.
 ---
 
 ## ⚙️ Tech Stack
-- **SQL (MySQL / PostgreSQL / SQLite)** – for data analysis  
-- **Jupyter Notebook / VS Code / SQL Clients** – for execution and visualization  
+- **SQL (MySQL / PostgreSQL / SQLite)** – for data analysis  and finding insights  
 
 ---
 
@@ -41,7 +40,3 @@ Some of the analysis performed:
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/netflix-sql-analysis.git
